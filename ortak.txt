@@ -1,2 +1,3 @@
 staffController eklendi
 subController eklendi
+sliderController eklendi
